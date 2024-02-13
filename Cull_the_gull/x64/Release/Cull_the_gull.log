@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\dog88\source\repos\d0037d-rectangle-copy-Monicaco1988\Test_Implement_Cull_the_gull\Cull_the_gull\main.cpp(824,6): warning C4552: '<': result of expression not used
+C:\Users\dog88\source\repos\d0037d-rectangle-copy-Monicaco1988\Test_Implement_Cull_the_gull\Cull_the_gull\main.cpp(368,18): warning C4101: 'e': unreferenced local variable
+C:\Users\dog88\source\repos\d0037d-rectangle-copy-Monicaco1988\Test_Implement_Cull_the_gull\Cull_the_gull\main.cpp(368,15): warning C4101: 'h': unreferenced local variable
+C:\Users\dog88\source\repos\d0037d-rectangle-copy-Monicaco1988\Test_Implement_Cull_the_gull\Cull_the_gull\main.cpp(368,21): warning C4101: 'd': unreferenced local variable
+  Generating code
+  1 of 15 functions ( 6.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Cull_the_gull.vcxproj -> C:\Users\dog88\source\repos\d0037d-rectangle-copy-Monicaco1988\Test_Implement_Cull_the_gull\x64\Release\Cull_the_gull.exe
